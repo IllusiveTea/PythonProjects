@@ -4,7 +4,7 @@ import time
 
 '''
 How do i spell 'threw' as in 'I threw it into his face'?
-Like that *takes a min to write threw*
+Like that *takes a minute to write threw*
 '''
 
 root = Tk()
